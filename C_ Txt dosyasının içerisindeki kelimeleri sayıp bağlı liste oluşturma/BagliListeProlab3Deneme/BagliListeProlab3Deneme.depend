@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608581395 source:e:\c_denemeler\baglilisteprolab3deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

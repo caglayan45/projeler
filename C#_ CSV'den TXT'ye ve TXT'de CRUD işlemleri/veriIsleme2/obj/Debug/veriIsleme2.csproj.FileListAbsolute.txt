@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\veriIsleme2\bin\Debug\veriIsleme2.exe.config
+C:\Users\ASUS\source\repos\veriIsleme2\bin\Debug\veriIsleme2.exe
+C:\Users\ASUS\source\repos\veriIsleme2\bin\Debug\veriIsleme2.pdb
+C:\Users\ASUS\source\repos\veriIsleme2\obj\Debug\veriIsleme2.Form1.resources
+C:\Users\ASUS\source\repos\veriIsleme2\obj\Debug\veriIsleme2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\veriIsleme2\obj\Debug\veriIsleme2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\veriIsleme2\obj\Debug\veriIsleme2.exe
+C:\Users\ASUS\source\repos\veriIsleme2\obj\Debug\veriIsleme2.pdb
+C:\Users\ASUS\source\repos\veriIsleme2\obj\Debug\veriIsleme2.csprojAssemblyReference.cache
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\bin\Debug\veriIsleme2.exe.config
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\bin\Debug\veriIsleme2.exe
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\bin\Debug\veriIsleme2.pdb
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\obj\Debug\veriIsleme2.csprojAssemblyReference.cache
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\obj\Debug\veriIsleme2.Form1.resources
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\obj\Debug\veriIsleme2.Properties.Resources.resources
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\obj\Debug\veriIsleme2.csproj.GenerateResource.cache
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\obj\Debug\veriIsleme2.exe
+E:\Yazılım\Proje - Uygulama - Algoritma - Program\CSV'den TXT'ye ve TXT'de CRUD işlemleri\veriIsleme2\obj\Debug\veriIsleme2.pdb

@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\BagliListe\bin\Debug\BagliListe.exe.config
+C:\Users\ASUS\source\repos\BagliListe\bin\Debug\BagliListe.exe
+C:\Users\ASUS\source\repos\BagliListe\bin\Debug\BagliListe.pdb
+C:\Users\ASUS\source\repos\BagliListe\obj\Debug\BagliListe.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BagliListe\obj\Debug\BagliListe.Form1.resources
+C:\Users\ASUS\source\repos\BagliListe\obj\Debug\BagliListe.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BagliListe\obj\Debug\BagliListe.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BagliListe\obj\Debug\BagliListe.exe
+C:\Users\ASUS\source\repos\BagliListe\obj\Debug\BagliListe.pdb

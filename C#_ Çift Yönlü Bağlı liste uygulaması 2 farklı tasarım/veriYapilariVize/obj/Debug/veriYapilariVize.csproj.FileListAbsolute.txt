@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\veriYapilariVize\bin\Debug\veriYapilariVize.exe.config
+C:\Users\ASUS\source\repos\veriYapilariVize\bin\Debug\veriYapilariVize.exe
+C:\Users\ASUS\source\repos\veriYapilariVize\bin\Debug\veriYapilariVize.pdb
+C:\Users\ASUS\source\repos\veriYapilariVize\obj\Debug\veriYapilariVize.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\veriYapilariVize\obj\Debug\veriYapilariVize.Form1.resources
+C:\Users\ASUS\source\repos\veriYapilariVize\obj\Debug\veriYapilariVize.Properties.Resources.resources
+C:\Users\ASUS\source\repos\veriYapilariVize\obj\Debug\veriYapilariVize.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\veriYapilariVize\obj\Debug\veriYapilariVize.exe
+C:\Users\ASUS\source\repos\veriYapilariVize\obj\Debug\veriYapilariVize.pdb
