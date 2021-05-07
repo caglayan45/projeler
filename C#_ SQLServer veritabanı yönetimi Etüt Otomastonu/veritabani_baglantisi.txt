@@ -1,0 +1,1 @@
+Server=localhost; Database=etut_takip; Integrated Security=True;
