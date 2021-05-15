@@ -1,4 +1,4 @@
-
+#ÇAĞLAYAN SANCAKTAR
 dosya = open("metin.txt", "r")
 
 veri = dosya.read()
